@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 9ac9de95f19f8f04ebf225249d47708f
+timeCreated: 1521046369
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BuildingCombined
+    100002: BuildingParts
+    100004: Connect_pipes
+    100006: LeftRightWalls
+    100008: LeftTurbine
+    100010: Leftwall
+    100012: //RootNode
+    100014: Mechanic_Sign
+    100016: MidPipes
+    100018: pCylinder6
+    100020: RightTurbine
+    100022: Screws
+    100024: Screws 1
+    100026: Screws2
+    100028: Screws2 1
+    100030: Screws3
+    100032: Screws4
+    100034: ScrewsL
+    100036: ScrewsR
+    100038: Ship
+    100040: SmallPipes
+    100042: TallPipes
+    400000: BuildingCombined
+    400002: BuildingParts
+    400004: Connect_pipes
+    400006: LeftRightWalls
+    400008: LeftTurbine
+    400010: Leftwall
+    400012: //RootNode
+    400014: Mechanic_Sign
+    400016: MidPipes
+    400018: pCylinder6
+    400020: RightTurbine
+    400022: Screws
+    400024: Screws 1
+    400026: Screws2
+    400028: Screws2 1
+    400030: Screws3
+    400032: Screws4
+    400034: ScrewsL
+    400036: ScrewsR
+    400038: Ship
+    400040: SmallPipes
+    400042: TallPipes
+    2100000: lambert10
+    2300000: BuildingParts
+    2300002: Connect_pipes
+    2300004: LeftTurbine
+    2300006: Mechanic_Sign
+    2300008: MidPipes
+    2300010: RightTurbine
+    2300012: Screws
+    2300014: Screws 1
+    2300016: Screws2
+    2300018: Screws2 1
+    2300020: Screws3
+    2300022: Screws4
+    2300024: Ship
+    2300026: SmallPipes
+    2300028: TallPipes
+    3300000: BuildingParts
+    3300002: Connect_pipes
+    3300004: LeftTurbine
+    3300006: Mechanic_Sign
+    3300008: MidPipes
+    3300010: RightTurbine
+    3300012: Screws
+    3300014: Screws 1
+    3300016: Screws2
+    3300018: Screws2 1
+    3300020: Screws3
+    3300022: Screws4
+    3300024: Ship
+    3300026: SmallPipes
+    3300028: TallPipes
+    4300000: BuildingParts
+    4300002: TallPipes
+    4300004: MidPipes
+    4300006: SmallPipes
+    4300008: Connect_pipes
+    4300010: Ship
+    4300012: Mechanic_Sign
+    4300014: RightTurbine
+    4300016: LeftTurbine
+    4300018: Screws2
+    4300020: Screws
+    4300022: Screws4
+    4300024: Screws2
+    4300026: Screws
+    4300028: Screws3
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
