@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 7d463d99264f1064d911f3d736fcb10b
-timeCreated: 1521228091
+guid: a55598bd1615d8d41952a70290cce2ff
+timeCreated: 1521647728
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -88,14 +88,14 @@ ModelImporter:
     100160: HoloScreen
     100162: HospiDoors
     100164: Hospital
-    100166: //RootNode
-    100168: HospitalCombine
-    100170: Hotel_FloorE
-    100172: HotelEFloor
-    100174: HotelFloor1
-    100176: HotelFloor2
-    100178: HotelFloor3
-    100180: HotelFloor4
+    100166: HospitalCombine
+    100168: Hotel_FloorE
+    100170: HotelEFloor
+    100172: HotelFloor1
+    100174: HotelFloor2
+    100176: HotelFloor3
+    100178: HotelFloor4
+    100180: //RootNode
     100182: InsideRooftop
     100184: Leftdoor
     100186: Neon_Lights
@@ -428,14 +428,14 @@ ModelImporter:
     400160: HoloScreen
     400162: HospiDoors
     400164: Hospital
-    400166: //RootNode
-    400168: HospitalCombine
-    400170: Hotel_FloorE
-    400172: HotelEFloor
-    400174: HotelFloor1
-    400176: HotelFloor2
-    400178: HotelFloor3
-    400180: HotelFloor4
+    400166: HospitalCombine
+    400168: Hotel_FloorE
+    400170: HotelEFloor
+    400172: HotelFloor1
+    400174: HotelFloor2
+    400176: HotelFloor3
+    400178: HotelFloor4
+    400180: //RootNode
     400182: InsideRooftop
     400184: Leftdoor
     400186: Neon_Lights
